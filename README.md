@@ -21,12 +21,7 @@ It’s part of my journey to become a **game developer** 💻🎮
 - **Java Projects** — university tasks and personal practice  
 - **Creative Code** — well-commented and thoughtfully written  
 - **Learning Progress** — each week shows a new step forward  
-<div align="center">
-  <img src="https://media.tenor.com/Y8yTzM5eSgcAAAAM/anya-smirk.gif" width="180" />
-  <img src="https://media.tenor.com/hBcgkBGmW9QAAAAM/spy-x-family-anya.gif" width="180" />
-  <img src="https://media.tenor.com/2fYNECpi2zEAAAAM/anya-happy.gif" width="180" />
-</div>
----
+<hr style="margin-top: 5px; border: 0.5px solid #d3d3d3;">
 
 ### 🩷 Tools & Tech
 

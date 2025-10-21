@@ -6,7 +6,6 @@
 <img src="https://media.tenor.com/dv6JvI8S_HIAAAAi/anya-forger-spy-x-family.gif" width="200"/>  
 
 </div>
-
 ---
 
 ### 🎀 About this Repository
@@ -15,7 +14,6 @@ Hiyaa~ 💕 I’m **Negin**, a Computer Science student at **Heinrich Heine Univ
 This repository is my **weekly programming projects** collection from the **Programming** module at university! 💻  
 Each week, I’ll upload a new project — from simple exercises to fun complicated experiments 🌸  
 It’s all part of my journey to become a *game developer girl* 🎮💖  
-
 ---
 
 ### 🎀 What’s Inside
@@ -39,7 +37,6 @@ It’s all part of my journey to become a *game developer girl* 🎮💖
 | ✨ VSCode | My coding space of creativity |
 | ☕ Coffee | My best debugging partner |
 | 🌷 Git & GitHub | Tracking my coding journey |
-
 ---
 
 ### 🎀 Example Project List
@@ -51,7 +48,6 @@ It’s all part of my journey to become a *game developer girl* 🎮💖
 | 3 | 🐰 Loop Wonderland | Exploring for & while loops |
 | 4 | 💎 Arrays Adventure | A journey through lists of cuteness |
 | … | … | … more coming soon! |
-
 ---
 
 ### 🎀 Let’s Connect!
@@ -63,7 +59,6 @@ Let’s make coding a little more *kawaii together~* 💕
   <br>
   ✨ *“The journey of a thousand bugs begins with a single commit.”* ✨
 </p>
-
 ---
 
 <div align="center">

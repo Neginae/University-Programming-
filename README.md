@@ -17,13 +17,13 @@ It’s part of my journey to become a **game developer** 💻🎮
 
 ---
 
-### 💗 What’s Inside
+### 🎀 What’s Inside
 - **Java Projects** — university tasks 
 - **Creative Code** — well-commented and thoughtfully written  
 - **Learning Progress** — each week shows a new step forward  
 <hr style="margin-top: 5px; border: 0.5px solid #d3d3d3;">
 
-### 🩷 Tools & Tech
+### 🎀 Tools & Tech
 
 | Tool | Description |
 |------|--------------|
@@ -34,7 +34,7 @@ It’s part of my journey to become a **game developer** 💻🎮
 
 ---
 
-### 🌼 Example Project List
+### 🎀 Example Project List
 
 | Week | Project | Description |
 |------|----------|-------------|

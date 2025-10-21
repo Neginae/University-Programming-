@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Neginae/University-Programming-/blob/main/Banner.png?raw=true" width="800" alt="Negin's Diary banner">
+  <img src="..." width="800" alt="Negin's Diary banner">
 </p><div align="center">
 
 # 🌸 My Weekly Programming Projects 🌸  

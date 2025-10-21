@@ -18,7 +18,7 @@ It’s part of my journey to become a **game developer** 💻🎮
 ---
 
 ### 💗 What’s Inside
-- **Java Projects** — university tasks and personal practice  
+- **Java Projects** — university tasks 
 - **Creative Code** — well-commented and thoughtfully written  
 - **Learning Progress** — each week shows a new step forward  
 <hr style="margin-top: 5px; border: 0.5px solid #d3d3d3;">

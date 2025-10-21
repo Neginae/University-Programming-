@@ -29,7 +29,6 @@ It’s all part of my journey to become a *game developer girl* 🎮💖
 <img src="https://media.tenor.com/hBcgkBGmW9QAAAAM/spy-x-family-anya.gif" width="180" />
 <img src="https://media.tenor.com/2fYNECpi2zEAAAAM/anya-happy.gif" width="180" />
 </div>
-
 ---
 
 ### 🎀 Tools & Tech

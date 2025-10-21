@@ -1,69 +1,73 @@
 <div align="center">
 
-# 🌸✨ My Weekly Programming Projects ✨🌸  
-
+# 🌸 My Weekly Programming Projects 🌸  
 
 <img src="https://media.tenor.com/dv6JvI8S_HIAAAAi/anya-forger-spy-x-family.gif" width="200"/>  
 
 </div>
+
 ---
 
 ### 🎀 About this Repository
-Hiyaa~ 💕 I’m **Negin**, a Computer Science student at **Heinrich Heine University Düsseldorf** 🎓  
+Hi, I’m **Negin**, a Computer Science student at **Heinrich Heine University Düsseldorf** 🎓  
 
-This repository is my **weekly programming projects** collection from the **Programming** module at university! 💻  
-Each week, I’ll upload a new project — from simple exercises to fun complicated experiments 🌸  
-It’s all part of my journey to become a *game developer girl* 🎮💖  
+This repository contains my **weekly programming projects** from the **Programming** module at university.  
+Each week, I upload a new project — from small exercises to creative experiments.  
+It’s part of my journey to become a **game developer** 💻🎮  
+
 ---
 
-### 🎀 What’s Inside
+### 💗 What’s Inside
 
-🍓 **Java Projects** — uni tasks  
-🍓 **Cute Code** — well-commented & full of creativity  
-🍓 **Learning Progress** — each week = one new level up!  
+- **Java Projects** — university tasks and personal practice  
+- **Creative Code** — well-commented and thoughtfully written  
+- **Learning Progress** — each week shows a new step forward  
 
 <div align="center">
 <img src="https://media.tenor.com/Y8yTzM5eSgcAAAAM/anya-smirk.gif" width="180" />
 <img src="https://media.tenor.com/hBcgkBGmW9QAAAAM/spy-x-family-anya.gif" width="180" />
 <img src="https://media.tenor.com/2fYNECpi2zEAAAAM/anya-happy.gif" width="180" />
 </div>
+
 ---
 
-### 🎀 Tools & Tech
+### 🩷 Tools & Tech
 
-| 💫 Tool | 🌸 Description |
-|----------|----------------|
-| 🖥️ Java | My main programming language |
-| ✨ VSCode | My coding space of creativity |
-| ☕ Coffee | My best debugging partner |
-| 🌷 Git & GitHub | Tracking my coding journey |
+| Tool | Description |
+|------|--------------|
+| Java | My main programming language |
+| VSCode | My coding workspace |
+| Git & GitHub | Tracking my progress and commits |
+| Coffee | My debugging companion ☕ |
+
 ---
 
-### 🎀 Example Project List
+### 🌼 Example Project List
 
 | Week | Project | Description |
 |------|----------|-------------|
-| 1 | 🌷 Hello World | My first Java program — the start of everything |
-| 2 | 🍰 Calculator | Practicing inputs and conditions |
-| 3 | 🐰 Loop Wonderland | Exploring for & while loops |
-| 4 | 💎 Arrays Adventure | A journey through lists of cuteness |
-| … | … | … more coming soon! |
+| 1 | Hello World | My first Java program — the beginning |
+| 2 | Calculator | Practicing input and conditions |
+| 3 | Loop Wonderland | Exploring loops and logic |
+| 4 | Arrays Adventure | Learning how to work with data collections |
+| … | … | … more coming soon |
+
 ---
 
-### 🎀 Let’s Connect!
-If you love learning and cute dev vibes too — feel free to star ⭐ this repo or reach out!  
-Let’s make coding a little more *kawaii together~* 💕  
+### 🧸 Let’s Connect
+If you also enjoy learning and coding, feel free to star ⭐ this repo or connect!  
+Let’s make programming a little more friendly and creative together.
 
 <p align="center">
-  <img src="https://media.tenor.com/lrVss9UjPMoAAAAM/anya-forger-spy-x-family.gif" width="200">
+  <img src="https://media.tenor.com/lrVss9UjPMoAAAAM/anya-forger-spy-x-family.gif" width="180">
   <br>
-  ✨ *“The journey of a thousand bugs begins with a single commit.”* ✨
+  *“The journey of a thousand bugs begins with a single commit.”*
 </p>
+
 ---
 
 <div align="center">
   
-💖 *Thanks for visiting!* 💖  
-Made with ☕, 🌸, and a little bit of 💻 magic by **Negin**
+Made with ☕ and 💻 by **Negin**
 
 </div>
